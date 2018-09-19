@@ -5,5 +5,13 @@ Insert heroku app link here.
 # Screen shots
 ![alt text](https://raw.githubusercontent.com/matthuberty/FriendFinder/master/data/images/homeF.png)
 ![alt text](https://raw.githubusercontent.com/matthuberty/FriendFinder/master/data/images/survey.png)
+# Technologies Used
+* Node.js
+* body-parser, NPM Package
+* express, NPM Package
+* path, NPM Package
+# Prerequisites
+-- Node.js  Download the latest version of Node.js.  https://nodejs.org/en/
+-- Materialize - Add CDN link to HTML:  https://materializecss.com/
 # Authors
 * Matthew J. Huberty - HTML/JS/Node.JS
