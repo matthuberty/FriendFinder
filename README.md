@@ -3,7 +3,6 @@ Created during Week #13 of UC Davis Coding Bootcamp.  The goal was to create a F
 # Getting Started
 Insert heroku app link here.
 # Screen shots
-![alt text](https://raw.githubusercontent.com/matthuberty/FriendFinder/branch/
-      FriendFinder/data/images/homeF.png)
+![alt text](https://raw.githubusercontent.com/matthuberty/FriendFinder/master/data/images/homeF.png)
 # Authors
 * Matthew J. Huberty - HTML/JS/Node.JS
